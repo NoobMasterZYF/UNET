@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+dist/
+build/
+
+# Virtualenv
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# Data files (large)
+*.npz
+*.pth
+*.xlsx
+*.csv
+*.jpg
+*.png
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Output directories
+output/
+output_unet/
+output_best/
